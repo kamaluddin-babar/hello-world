@@ -25,3 +25,7 @@ print(bigword, bigcount)
 # This is an extra comment to see how git work.
 # This is an extra comment to see how git work.
 
+print('Not everone are same in this world!')
+z = 10
+for i in z:
+    print('You are a fucking guyz!')
